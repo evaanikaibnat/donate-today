@@ -1,0 +1,193 @@
+body {
+    font-family: 'Inter', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-size: 70px;
+}
+
+.section-1 {
+    background-image: url(image/donation0.jpg);
+
+    background-repeat: no-repeat;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+    margin-bottom: 150px;
+
+}
+
+.donate-1 {
+    padding-top: 175px;
+    padding-bottom: 175px;
+    padding-left: 150px;
+    padding-right: 150px;
+    color: gray;
+    text-align: center;
+}
+
+.button {
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 800;
+    color: white;
+    background-image: linear-gradient(pink, rgb(255, 0, 106));
+    padding: 10px 20px;
+    border-radius: 5px;
+
+}
+
+h2 {
+    font-size: 50px;
+    color: black;
+}
+
+.donate-2 {
+    text-align: center;
+    padding-left: 374px;
+    padding-right: 374px;
+    margin-bottom: 75px;
+}
+
+h3 {
+    font-size: 30px;
+    color: gray;
+}
+
+
+.donate-3 {
+    display: flex;
+    text-align: center;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+.half-width {
+    padding: 50px 30px;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+.half-width:hover {
+    border: 5px solid purple;
+    background-color: pink;
+
+}
+
+.donate-4 {
+    text-align: center;
+}
+
+h4 {
+    color: gray;
+}
+
+hr {
+    width: 70%;
+    height: 2px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    background-color: #b7d0e2;
+}
+
+.section-2 {
+    margin-bottom: 150px;
+}
+
+.heading {
+    font-size: 30px;
+    color: black;
+}
+
+.donate-5 {
+    display: flex;
+    margin-top: 75px;
+}
+
+.donate-6 {
+    padding: 30px 20px;
+    margin: 20px;
+    width: 30%;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    background-color: rgb(187, 245, 226);
+}
+
+.donate-7 {
+    padding: 30px 20px;
+    margin: 20px;
+    width: 30%;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    background-color: pink;
+}
+
+.donate-8 {
+    padding: 30px 20px;
+    margin: 20px;
+    width: 30%;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    background-color: bisque;
+}
+
+.section-3 {
+    display: flex;
+    margin-top: 150px;
+    margin-bottom: 150px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+.third-width {
+    width: 46%;
+    padding: 10px;
+    margin: 20px;
+}
+
+.third-width img {
+    width: 80%;
+    height: 100%;
+}
+
+.input {
+    padding-top: 75px;
+    padding-bottom: 75px;
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-left: 200px;
+    margin-right: 200px;
+    text-align: center;
+    background-color: pink;
+}
+
+#email {
+    padding: 10px 40px;
+    border-radius: 10px;
+    margin: 0;
+    background-color: rgb(236, 214, 214);
+}
+
+#subscribe {
+    background-color: rgb(180, 10, 38);
+    padding: 10px 40px;
+    margin: 0;
+    border-radius: 10px;
+}
+
+#be-humble {
+    color: rgb(223, 26, 91);
+    font-family: Brush Script MT, Brush Script Std, cursive;
+
+}
+
+footer {
+    margin-top: 150px;
+    background-color: rgb(15, 14, 14);
+    text-align: center;
+    color: gray;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
